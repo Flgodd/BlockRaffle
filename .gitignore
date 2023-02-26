@@ -1,1 +1,12 @@
 .env
+.idea
+.idea/
+.idea/*
+/BackEnd/stable_diffusion/models/
+/BackEnd_Rebuild/images/
+/BackEnd/out/samples/
+/BackEnd/sd_rebuild/images/
+/service/config.json
+/web/node_modules
+/web/.quasar
+/web/dist/spa
