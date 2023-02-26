@@ -12,7 +12,8 @@ const routes = [
       { path: '/twitter', component: () => import('pages/Twitter.vue')},
       { path:  '/signin', component: () => import('pages/signin.vue')},
       { path: '/StableDiffusionUI', component: () => import('pages/StableDiffusionUI.vue')},
-      { path: '/TimelineView', component: () => import('pages/TimelineView.vue')},
+      { path: '/Meta', component: () => import('pages/Meta.vue')},
+      //{ path: '/MetaMask', component: () => import('pages/MetaMask.vue')},
     ]
   },
 

@@ -9,6 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
     "@quasar/extras": "^1.15.10",
     "@vue/test-utils": "^2.2.10",
     "babel": "^6.23.0",

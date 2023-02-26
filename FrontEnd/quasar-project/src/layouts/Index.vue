@@ -69,6 +69,13 @@
             <q-item-section>SD UI</q-item-section>
           </q-item>
 
+          <q-item clickable v-ripple class="text-grey-5" to="/Meta" active-class="menu-link">
+            <q-item-section avatar>
+              <q-icon name="fa-solid fa-info" />
+            </q-item-section>
+            <q-item-section>MetaMask</q-item-section>
+          </q-item>
+
         </q-list>
 
 
